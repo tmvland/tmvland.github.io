@@ -6,9 +6,10 @@ Hello! I am Theo Landman, and I coordinate the course ENGR 101 at the University
 
 My resume can be found <a
 href="/TL_resume_11272023.pdf" style= "color:#89BAFF">here</a>.
-@@ -56,6 +56,9 @@ color:#625BB0">
 
-<h4> Side Projects: </h4>
+
+<h4> Personal Projects: </h4>
+
 <!-- <h5>Dungeons and Dragons coin manager</h5>
 <h5>Chaotic waterwheel and Lorenz butterfly plotter</h5> 
 <h5>RK4 integration of the heat equation</h5> -->
@@ -21,6 +22,7 @@ color:#625BB0">
 
 <h4> Experience: </h4>
 
+<h5> Course Coordinator for ENGR 101</h5>
 <h5> Teaching Assistant for Calculus 1 at Rensselaer Polytechnic Institute </h5>
 <h5> Exam proctor for Physics 150 (Physics for the Life Sciences) </h5>
 <h5> Student ambassador for prospective students in the Physics department </h5>
