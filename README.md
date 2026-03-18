@@ -15,8 +15,7 @@ href="/TL_resume_11272023.pdf" style= "color:#89BAFF">here</a>.
 <h5>Dungeons and Dragons coin manager</h5>
 <h5>Chaotic waterwheel and Lorenz butterfly plotter</h5> 
 <h5>RK4 integration of the heat equation</h5>
-
-<<h5>Star-galaxy separation, 2019-2022</h5>
+<h5>Star-galaxy separation, 2019-2022</h5>
 
 <hr style="width:100%;
 @@ -64,7 +67,7 @@ margin-left:0
