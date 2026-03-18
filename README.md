@@ -1,7 +1,8 @@
 # tmvland.github.io
                             
 <p>  
-               
+
+            
 Hello! I am Theo Landman, and I am a current Master's student in Biomedical Imaging at the University of California, San Francisco. I hold a Bachelor's degree from the University of Michigan in mathematics, physics, and complex systems. My primary research interest is in the development of numerical methods for solving physical problems. I'm interested in the application of math to scientific computing and physical modeling. I love differential equations, and will talk about them at pretty much any available opportunity. 
 
 Right now I'm mainly working on edge-detection methods for synthetic CT generation. Stuff related to that might crop up on here-- or other image reconstruction codes I want to keep hold of for later. 
