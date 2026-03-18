@@ -1,12 +1,10 @@
 import { defineConfig } from 'astro/config';
-import yaml from '@rollup/plugin-yaml';
-
+import mdx from '@astrojs/mdx';
+import sitemap from '@astrojs/sitemap';
+import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://tmvland.github.io',
-  vite: {
-    plugins: [yaml()]
-  },
-  
+  site: 'https://astrofy-template.netlify.app',
+  integrations: [mdx(), sitemap(), tailwind()]
 });
