@@ -1,13 +1,28 @@
 {
   "name": "tmvland.github.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "<p>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "dev": "astro dev",
+  "start": "astro dev",
+  "build": "astro build",
+  "preview": "astro preview"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.32.1"
+  "packageManager": "pnpm@10.32.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmvland/tmvland.github.io.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tmvland/tmvland.github.io/issues"
+  },
+  "homepage": "https://github.com/tmvland/tmvland.github.io#readme",
+  "dependencies": {
+    "astro": "^6.0.6"
+  }
 }
