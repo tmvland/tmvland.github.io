@@ -1,0 +1,5 @@
+      - name: Set up Node.js from .nvmrc
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc' # This will read the version from your .nvmrc file
+          cache: 'npm'
