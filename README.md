@@ -7,7 +7,7 @@ Hello! I am Theo Landman, and I am a current Master's student in Biomedical Imag
 Right now I'm mainly working on edge-detection methods for synthetic CT generation. Stuff related to that might crop up on here-- or other image reconstruction codes I want to keep hold of for later. 
 
 My resume can be found <a
-href="/TL_resume_11272023.pdf" style= "color:#89BAFF">here</a>.
+href="/TL_resume_0305.pdf" style= "color:#89BAFF">here</a>.
 
 
 <h4> Personal Projects: </h4>
