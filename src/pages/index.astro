@@ -11,21 +11,21 @@ const last_posts = posts.slice(0, 3);
 
 <BaseLayout sideBarActiveItemID="home">
   <div class="pb-12 mt-5">
-    <div class="text-xl py-1">Hey there 👋</div>
+    <!-- <div class="text-xl py-1">Hey there 👋</div> -->
     <div class="text-5xl font-bold">I'm Manuel Ernesto</div>
     <div class="text-3xl py-3 font-bold">Software Engineer and Entrepreneur</div>
     <div class="py-2">
       <text class="text-lg">
-        This is <b>Astrofy</b> a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS.
-        Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed. I hope you find
-        it useful!
+        Hello! I am Theo Landman, and I am a current Master's student in Biomedical Imaging at the University of California, San Francisco. I hold a Bachelor's degree from the University of Michigan in mathematics, physics, and complex systems. My primary research interest is in the development of numerical methods for solving physical problems. I'm interested in the application of math to scientific computing and physical modeling. I love differential equations, and will talk about them at pretty much any available opportunity. 
+
+Right now I'm mainly working on edge-detection methods for synthetic CT generation. Stuff related to that might crop up on here-- or other image reconstruction codes I want to keep hold of for later. 
+
       </text>
     </div>
     <div class="mt-8">
-      <a class="btn" href="https://twitter.com/manuelernestog" target="_blank"> Let's connect!</a>
-      <a href="https://github.com/manuelernestog/astrofy" target="_blank" class="btn btn-outline ml-5">
-        Get This template
-      </a>
+      <a class="btn" href="https://github.com/tmvland" target="_blank"> Let's connect!</a>
+      <a href="https://github.com/tmvland" target="_blank"> GitHub
+      </a> 
     </div>
   </div>
 
@@ -34,27 +34,26 @@ const last_posts = posts.slice(0, 3);
   </div>
 
   <HorizontalCard
-    title="Demo Project 1"
+    title="PET-Sinogram converter"
     img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    desc="Converting raw PET data into simulated sinogram data using the Radon forward projection for use in image reconstruction."
     url="#"
-    badge="NEW"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
-    title="Demo Project 2"
+    title="Chaotic waterwheel simulator"
     img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    desc="Model of Malkus' chaotic waterwheel, using RK4 with adjustable parameters."
     url="#"
   />
-  <div class="divider my-0"></div>
+  <!-- <div class="divider my-0"></div>
   <HorizontalCard
     title="Demo Project 3"
     img="/post_img.webp"
     desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     url="#"
     badge="FOSS"
-  />
+  /> -->
 
   <div>
     <div class="text-3xl w-full font-bold mb-5 mt-10">Latest from blog</div>
