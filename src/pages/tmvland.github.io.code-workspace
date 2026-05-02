@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "tmvland.github.io",
+			"path": "../.."
+		},
+		{
+			"name": "astrofy-main",
+			"path": "../../../astrofy-main"
+		}
+	],
+	"settings": {}
+}
